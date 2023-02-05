@@ -1,2 +1,3 @@
 # course-sql
-Advanced SQL
+
+This repository contains the projects for Advanced SQL course
